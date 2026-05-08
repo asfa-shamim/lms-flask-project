@@ -1,0 +1,21 @@
+body {
+    background: #f5f7fb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.course-card {
+    transition: 0.3s;
+    border-radius: 20px;
+}
+
+.course-card:hover {
+    transform: translateY(-8px);
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.btn {
+    border-radius: 10px;
+}
